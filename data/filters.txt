@@ -3,3 +3,12 @@
 *://*.yektanet.com/*
 *://*.kaprila.com/*
 *://*.mediaad.org/*
+*://*.aparat.com/*
+*://*.zoomit.ir/*
+*://*.dlfox.com/*
+*://*.zoomg.ir/*
+*://*.downloadha.com/*
+*://*.shahrsakhtafzar.com/*
+*://*.digiato.com/*
+*://*.blogfa.com/*
+*://*.miimiik.com/*
